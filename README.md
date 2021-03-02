@@ -1,4 +1,4 @@
-*** Live chat App ***
+### Live chat App ###
 
 Made with React.js, socket.io, node.js and express
 
